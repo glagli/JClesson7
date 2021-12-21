@@ -1,0 +1,60 @@
+[
+  {
+    "Version": 1,
+    "Key": "515384",
+    "Type": "City",
+    "Rank": 600,
+    "LocalizedName": "Pariz",
+    "EnglishName": "Pariz",
+    "PrimaryPostalCode": "",
+    "Region": {
+      "ID": "MEA",
+      "LocalizedName": "Middle East",
+      "EnglishName": "Middle East"
+    },
+    "Country": {
+      "ID": "IR",
+      "LocalizedName": "Iran",
+      "EnglishName": "Iran"
+    },
+    "AdministrativeArea": {
+      "ID": "15",
+      "LocalizedName": "Kerman",
+      "EnglishName": "Kerman",
+      "Level": 1,
+      "LocalizedType": "Province",
+      "EnglishType": "Province",
+      "CountryID": "IR"
+    },
+    "TimeZone": {
+      "Code": "IRST",
+      "Name": "Asia/Tehran",
+      "GmtOffset": 3.5,
+      "IsDaylightSaving": false,
+      "NextOffsetChange": "2022-03-21T20:30:00Z"
+    },
+    "GeoPosition": {
+      "Latitude": 27.976,
+      "Longitude": 57.422,
+      "Elevation": {
+        "Metric": {
+          "Value": 913,
+          "Unit": "m",
+          "UnitType": 5
+        },
+        "Imperial": {
+          "Value": 2997,
+          "Unit": "ft",
+          "UnitType": 0
+        }
+      }
+    },
+    "IsAlias": false,
+    "SupplementalAdminAreas": [],
+    "DataSets": [
+      "AirQualityCurrentConditions",
+      "AirQualityForecasts",
+      "ForecastConfidence"
+    ]
+  }
+]
