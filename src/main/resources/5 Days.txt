@@ -1,0 +1,170 @@
+{
+  "Headline": {
+    "EffectiveDate": "2021-12-26T07:00:00+03:30",
+    "EffectiveEpochDate": 1640489400,
+    "Severity": 4,
+    "Text": "Pleasant Sunday",
+    "Category": "mild",
+    "EndDate": null,
+    "EndEpochDate": null,
+    "MobileLink": "http://www.accuweather.com/en/ir/pariz/515384/daily-weather-forecast/515384?lang=en-us",
+    "Link": "http://www.accuweather.com/en/ir/pariz/515384/daily-weather-forecast/515384?lang=en-us"
+  },
+  "DailyForecasts": [
+    {
+      "Date": "2021-12-21T07:00:00+03:30",
+      "EpochDate": 1640057400,
+      "Temperature": {
+        "Minimum": {
+          "Value": 54,
+          "Unit": "F",
+          "UnitType": 18
+        },
+        "Maximum": {
+          "Value": 80,
+          "Unit": "F",
+          "UnitType": 18
+        }
+      },
+      "Day": {
+        "Icon": 2,
+        "IconPhrase": "Mostly sunny",
+        "HasPrecipitation": false
+      },
+      "Night": {
+        "Icon": 35,
+        "IconPhrase": "Partly cloudy",
+        "HasPrecipitation": false
+      },
+      "Sources": [
+        "AccuWeather"
+      ],
+      "MobileLink": "http://www.accuweather.com/en/ir/pariz/515384/daily-weather-forecast/515384?day=1&lang=en-us",
+      "Link": "http://www.accuweather.com/en/ir/pariz/515384/daily-weather-forecast/515384?day=1&lang=en-us"
+    },
+    {
+      "Date": "2021-12-22T07:00:00+03:30",
+      "EpochDate": 1640143800,
+      "Temperature": {
+        "Minimum": {
+          "Value": 53,
+          "Unit": "F",
+          "UnitType": 18
+        },
+        "Maximum": {
+          "Value": 78,
+          "Unit": "F",
+          "UnitType": 18
+        }
+      },
+      "Day": {
+        "Icon": 2,
+        "IconPhrase": "Mostly sunny",
+        "HasPrecipitation": false
+      },
+      "Night": {
+        "Icon": 38,
+        "IconPhrase": "Mostly cloudy",
+        "HasPrecipitation": false
+      },
+      "Sources": [
+        "AccuWeather"
+      ],
+      "MobileLink": "http://www.accuweather.com/en/ir/pariz/515384/daily-weather-forecast/515384?day=2&lang=en-us",
+      "Link": "http://www.accuweather.com/en/ir/pariz/515384/daily-weather-forecast/515384?day=2&lang=en-us"
+    },
+    {
+      "Date": "2021-12-23T07:00:00+03:30",
+      "EpochDate": 1640230200,
+      "Temperature": {
+        "Minimum": {
+          "Value": 47,
+          "Unit": "F",
+          "UnitType": 18
+        },
+        "Maximum": {
+          "Value": 77,
+          "Unit": "F",
+          "UnitType": 18
+        }
+      },
+      "Day": {
+        "Icon": 4,
+        "IconPhrase": "Intermittent clouds",
+        "HasPrecipitation": false
+      },
+      "Night": {
+        "Icon": 35,
+        "IconPhrase": "Partly cloudy",
+        "HasPrecipitation": false
+      },
+      "Sources": [
+        "AccuWeather"
+      ],
+      "MobileLink": "http://www.accuweather.com/en/ir/pariz/515384/daily-weather-forecast/515384?day=3&lang=en-us",
+      "Link": "http://www.accuweather.com/en/ir/pariz/515384/daily-weather-forecast/515384?day=3&lang=en-us"
+    },
+    {
+      "Date": "2021-12-24T07:00:00+03:30",
+      "EpochDate": 1640316600,
+      "Temperature": {
+        "Minimum": {
+          "Value": 49,
+          "Unit": "F",
+          "UnitType": 18
+        },
+        "Maximum": {
+          "Value": 77,
+          "Unit": "F",
+          "UnitType": 18
+        }
+      },
+      "Day": {
+        "Icon": 3,
+        "IconPhrase": "Partly sunny",
+        "HasPrecipitation": false
+      },
+      "Night": {
+        "Icon": 35,
+        "IconPhrase": "Partly cloudy",
+        "HasPrecipitation": false
+      },
+      "Sources": [
+        "AccuWeather"
+      ],
+      "MobileLink": "http://www.accuweather.com/en/ir/pariz/515384/daily-weather-forecast/515384?day=4&lang=en-us",
+      "Link": "http://www.accuweather.com/en/ir/pariz/515384/daily-weather-forecast/515384?day=4&lang=en-us"
+    },
+    {
+      "Date": "2021-12-25T07:00:00+03:30",
+      "EpochDate": 1640403000,
+      "Temperature": {
+        "Minimum": {
+          "Value": 49,
+          "Unit": "F",
+          "UnitType": 18
+        },
+        "Maximum": {
+          "Value": 76,
+          "Unit": "F",
+          "UnitType": 18
+        }
+      },
+      "Day": {
+        "Icon": 6,
+        "IconPhrase": "Mostly cloudy",
+        "HasPrecipitation": false
+      },
+      "Night": {
+        "Icon": 36,
+        "IconPhrase": "Intermittent clouds",
+        "HasPrecipitation": false
+      },
+      "Sources": [
+        "AccuWeather"
+      ],
+      "MobileLink": "http://www.accuweather.com/en/ir/pariz/515384/daily-weather-forecast/515384?day=5&lang=en-us",
+      "Link": "http://www.accuweather.com/en/ir/pariz/515384/daily-weather-forecast/515384?day=5&lang=en-us"
+    }
+  ]
+}
